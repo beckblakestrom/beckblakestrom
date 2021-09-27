@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **beckblakestrom/beckblakestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi!
 I am currently working on building my portfolio in order to apply for a development job.
 I am a student at Harvard University pursuing a degree in Computer Science.
 I am currently learning Javascript and the MERN stack through a certificate program offered by MIT.
