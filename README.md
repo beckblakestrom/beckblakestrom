@@ -1,8 +1,9 @@
 ### Yo I'm Blake. I'm into web design and development.
+I am highly proficient in HTML, CSS, and SASS and have built a handful of projects with just these.
 <br>
-I am highly proficient in HTML, CSS, and SASS.
-I am currently learning JS and the MERN Stack.
-I am also at university pursuing a degree in Computer Science.
+I am currently learning JS and the MERN Stack. With these I hope to create more substanital websites and applications.
+<br>
+I am also at university pursuing a degree in computer science.
 
 <!--
 **beckblakestrom/beckblakestrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
