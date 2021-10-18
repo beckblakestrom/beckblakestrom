@@ -2,7 +2,7 @@
 ## I am an independent web designer and developer.
 I am highly proficient in HTML, CSS, and SASS.
 <br>
-I am currently learning JS and the MERN Stack. With these I hope to create more substanital websites and applications.
+I am currently learning JS and the MERN Stack.
 <br>
 
 
