@@ -1,4 +1,5 @@
-### Yo I'm Blake. I'm into web design and development.
+### Yo I'm Blake.
+### I am an independent web designer and developer.
 I am highly proficient in HTML, CSS, and SASS and have built a handful of projects with just these.
 <br>
 I am currently learning JS and the MERN Stack. With these I hope to create more substanital websites and applications.
