@@ -1,4 +1,4 @@
-### Yo I'm Blake.
+### Yo. I'm Blake.
 ### I am an independent web designer and developer.
 I am highly proficient in HTML, CSS, and SASS and have built a handful of projects with just these.
 <br>
