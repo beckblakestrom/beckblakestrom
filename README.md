@@ -1,4 +1,4 @@
-### Yo! I'm Blake. I'm into web design and development.
+### Yo I'm Blake. I'm into web design and development.
 I am highly proficient in HTML, CSS, and SASS.
 I am currently learning JS and the MERN Stack.
 I am also at university pursuing a degree in Computer Science.
