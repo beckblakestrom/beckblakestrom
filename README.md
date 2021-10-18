@@ -1,5 +1,5 @@
 ### Wassssup. My name is Blake Beckstrom and I am an independent web designer and developer.
-I am highly proficient in HTML, CSS, and SASS and am currently learning JS and the MERN Stack.
+I am highly proficient in HTML, CSS, and SASS and am currently learning JS and the MERN stack.
 
 
 <!--
