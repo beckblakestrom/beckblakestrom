@@ -1,7 +1,7 @@
 ### Wassup, I'm Blake! I am 23 years old and I LOVE WEB DEVELOPMENT!
 
 ## I have been independtly developing simple websites for friends, family and myself for the past few years.
-## I started out using WordPress back in highschool, then dabbled in Squarespace and Shopify for a time and now I have graduated to coding all my projects and websites from scratch. 
+## I started out using WordPress in highschool, then dabbled in Squarespace and Shopify for a time and now I code all my projects and websites from scratch. 
 
 - 🔭 I've lauched a handful of bespoke static websites
 - 🌱 I’m currently learning JS and the MERN stack
