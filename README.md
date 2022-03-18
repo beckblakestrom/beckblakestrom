@@ -1,4 +1,4 @@
-# Wassup, I'm Blake! I am 23 years old and I LOVE PROGRAMMING!
+# Wassup, I'm Blake! I am 24 years old and I LOVE PROGRAMMING!
 
 ## I have been independtly developing simple websites for friends, family and myself for the past few years.
 ## I started out with WordPress in highschool, then dabbled in Squarespace and Shopify for a time and now I enjoy coding all my projects and websites from scratch. 
