@@ -6,8 +6,8 @@
 - 🔭 I have lauched a handful of bespoke static websites.
 - 🌱 I am currently learning JS and the MERN stack, while finishing my degree. 
 - 👯 I would love to collab with anyone that likes to build cool things!
-- 🥅 2021 Goals: Build more projects and solidify my programming foundations.
-- ⚡ Fun facts: I am a true coffee enthusiast (that means no starbucks), I am an avid weightlifter and cars are my passion!
+- 🥅 2022 Goals: Build more projects and solidify my programming foundations.
+- ⚡ Fun facts: I am a coffee enthusiast, an avid weightlifter and cars are my passion!
 
 <br />
 
