@@ -1,12 +1,13 @@
 # Wassup, I'm Blake! I am 24 years old and I LOVE PROGRAMMING!
 
 ## I have been independtly developing simple websites for friends, family and myself for the past few years.
-## I started out with WordPress in highschool, then dabbled in Squarespace and Shopify for a time and now I enjoy coding all my projects and websites from scratch. 
+## I started out in highschool using CMS platforms like WordPress, Squarespace and Shopify to build websites. Now I enjoy coding all my projects and applications by hand using the latest technologies and frameworks.
+## If possible I try and code every part of a given project by myself, front to back, styling, routes, api, and everything in between.
 
-- 🔭 I have lauched a handful of bespoke static websites.
-- 🌱 I am currently learning JS and the MERN stack, while finishing my degree. 
+- 🔭 I have lauched a handful of bespoke websites and web applications.
+- 🌱 I am always learning and am currently pursuing a CS degree. 
 - 👯 I would love to collab with anyone that likes to build cool things!
-- 🥅 2022 Goals: Build more projects and solidify my programming foundations.
+- 🥅 2022 Goals: MORE BUILDS.
 - ⚡ Fun facts: I am a coffee enthusiast, an avid weightlifter and cars are my passion!
 
 <br />
