@@ -34,6 +34,6 @@
 
 ### Platoforms:
 <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" />
-<img align="left" alt="Android" width="26px" src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" />
+<img align="left" alt="Android" width="26px" src="https://dwglogo.com/wp-content/uploads/2019/09/android_logo.png" />
 
 
