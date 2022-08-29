@@ -2,7 +2,7 @@
 
 ## I have been independtly developing simple websites for friends, family and myself for the past few years.
 ## I started out in highschool using CMS platforms like WordPress, Squarespace and Shopify to build websites. Now I enjoy coding all my projects and applications by hand using the latest technologies and frameworks.
-## If possible I try and code every part of a given project by myself, front to back, styling, routes, api, and everything in between.
+## As much as possible I try and code every part of my projects by myself, front to back.
 
 - 🔭 I have lauched a handful of bespoke websites and web applications.
 - 🌱 I am always learning and am currently pursuing a CS degree. 
