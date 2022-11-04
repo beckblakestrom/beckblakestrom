@@ -1,6 +1,6 @@
 # Wassup, I'm Blake! I am 24 years old and I LOVE PROGRAMMING!
 
-## I have been independtly developing simple websites for friends, family and myself for the past few years.
+## I have been independtly developing simple websites for friends, family, and clients for the past few years.
 ## I started out in highschool using CMS platforms like WordPress, Squarespace and Shopify to build websites. Now I enjoy coding all my projects and applications by hand using the latest technologies and frameworks.
 ## As much as possible I try and code every part of my projects by myself, front to back.
 
