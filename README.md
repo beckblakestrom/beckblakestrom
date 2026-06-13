@@ -1,4 +1,4 @@
-# Blake Arthurs
+# Blake Beckstrom
 
 Solo founder building software and small brands out of Wake Forest, NC. I run [Arthurs Group](https://arthursgroup.co), a small holding company, and spend most of my time on **Webworks Development** — a web design and local marketing studio for home services businesses.
 
