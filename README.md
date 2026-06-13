@@ -1,12 +1,12 @@
 # Blake Arthurs
 
-Solo founder building software and small brands out of Wake Forest, NC. I run [Arthurs Group](https://arthursgroup.co), a small holding company, and spend most of my time on **Savage Studios** — a web design and local marketing studio for home services businesses.
+Solo founder building software and small brands out of Wake Forest, NC. I run [Arthurs Group](https://arthursgroup.co), a small holding company, and spend most of my time on **Webworks Development** — a web design and local marketing studio for home services businesses.
 
 > **Dream big. Build better.**
 
 ### What I'm working on
 
-- **Savage Studios** — websites and Google presence for HVAC, roofing, fencing, and landscaping companies around the Triangle, NC. This is the main thing, and the one that pays the bills.
+- **Webworks Development** — websites and Google presence for HVAC, roofing, fencing, and landscaping companies around the Triangle, NC. This is the main thing, and the one that pays the bills.
 - **Arthurs Group** — the umbrella for a few longer-horizon ventures across home & design, food, and fitness. Most are still early, and I try to talk about them that way.
 - **Harvard Extension** — finishing a B.S. in Computer Science with a Finance minor. Targeting Spring 2027.
 
